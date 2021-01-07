@@ -24,7 +24,7 @@ To learn about service workers and caching data while an app is off line
 ## Installation 🛠️
 Clone and run NPM install
 ## Usage 🏃‍♀️
-CHeck out the deployed app here: https://budget-tracker-666.herokuapp.com/
+Check out the deployed app here: https://budget-tracker-666.herokuapp.com/
 ## License 🎓
 This application is licensed under: MIT
 ## How to Contribute 🍰
